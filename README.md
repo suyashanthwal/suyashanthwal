@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyash Anthwal</h1>
 <h3 align="center">A frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **LLM Engineering**
 
 - 📫 How to reach me **suyashanthwal@gmail.com**
 
