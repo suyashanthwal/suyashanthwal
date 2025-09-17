@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suyash Anthwal</h1>
+![](https://komarev.com/ghpvc/?username=suyashanthwal&color=green)
 <h3 align="center">A frontend developer from India</h3>
 
 - 🌱 I’m currently learning **LLM Engineering**
